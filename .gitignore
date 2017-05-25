@@ -4,3 +4,6 @@
 
 # Default executable
 a.out
+
+# PDFs
+*.pdf
