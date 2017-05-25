@@ -3,4 +3,11 @@ elements = ["H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne", "Na", "Mg", "A
 elements.sort()
 
 for element in elements:
-    print element
+    if len(element) == 1:
+        print element
+
+print "\n"
+
+for element in elements:
+    if len(element) == 2:
+        print element
