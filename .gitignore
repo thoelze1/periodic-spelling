@@ -1,3 +1,6 @@
 # LaTeX Files
 *.aux
 *.log
+
+# Default executable
+a.out
