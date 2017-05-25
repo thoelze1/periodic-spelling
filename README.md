@@ -25,4 +25,6 @@ Each entry stores the number of characters in the corresponding subsequence that
 
 Each of the i entries in row i must be filled. For a subsequence in row i, we partition the subsequence into two strings of positive length. There are i-1 ways to do this. 
 
-<object data="timeComplexityCrop.pdf" type="application/pdf" width="700px" height="700px"></object>
+<p align="center">
+  <img src="timeComplexityCrop.jpg" height="420px" width="auto"/>
+</p>
