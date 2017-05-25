@@ -28,3 +28,10 @@ Each of the i entries in row i must be filled. For a subsequence in row i, we pa
 <p align="center">
   <img src="timeComplexityCrop.jpg" height="420px" width="auto"/>
 </p>
+
+The running time does not vary based on differences in input of the same size.
+
+## To Do
+- Improve README.md
+- Generate optimal covering, not just length of optimal covering
+- Apply this method to compression
